@@ -1,0 +1,5 @@
+Diagnosis distribution (encoded):
+diagnosis
+0    357
+1    212
+Name: count, dtype: int64
